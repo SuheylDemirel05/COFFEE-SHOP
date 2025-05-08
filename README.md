@@ -5,10 +5,15 @@ This project is a modern and user-friendly **Coffee Shop** website design. It is
 ## 🌟 Features
 
  🔹 Fully responsive design (Mobile, tablet, and desktop compatible)
+ 
  🔹 Clean and minimal HTML & CSS code structure
+ 
  🔹 Modern and user-friendly interface
+ 
  🔹 Simple and understandable folder organization
+ 
  🔹 Easily extendable infrastructure
+ 
 
 ## 🛠️ Technologies Used
 
